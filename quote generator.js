@@ -1,5 +1,3 @@
-<script src="javascript.js">
-
 var quotes = [
     'Thank you for your kindness'
     'You are so kind to think of me'
@@ -16,5 +14,5 @@ function newQuote() {
     var randomNumber = Math.floor(Math.random()*(quotes.length));
     document.getElementById('quoteDisplay').innerHTML*quotes[randomNumber];
 }
-</script>
+
 
