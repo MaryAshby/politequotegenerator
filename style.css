@@ -1,0 +1,26 @@
+    body {
+        font-family: "Helvetica Neue",Helvetica,Verdana,sans-serif;
+        background-image: url("https://pixnio.com/free-images/2020/05/11/2020-05-11-11-19-11-1200x800.jpg");
+        width: 800px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-color: #FFFFFF
+        color: #343434
+        font-size: 20px;
+        padding-left: 25px;
+    }
+
+  h1  {
+    font-family: Bookman;
+    font-size: 36px;
+    font-style: bold;
+    text-align: center;
+    border-top-right-radius: 25px;
+  }
+
+    button {
+        color:#000000;
+        background-color:#FFFFFF
+    }
+
